@@ -39,8 +39,8 @@ github.com/BurntSushi/toml v1.2.1/go.mod h1:CxXYINrC8qIiEnFrOxCa7Jy5BFHlXnUU2pbi
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/Netflix/go-expect v0.0.0-20220104043353-73e0943537d2 h1:+vx7roKuyA63nhn5WAunQHLTznkw5W8b1Xc0dNjp83s=
 github.com/Netflix/go-expect v0.0.0-20220104043353-73e0943537d2/go.mod h1:HBCaDeC1lPdgDeDbhX8XFpy1jqjK0IBG8W5K+xYqA0w=
-github.com/abulo/ratel/v3 v3.2.40 h1:Dy27ROnezSa/6I/Y9P8+K5yJS/MlB291s/SGGg0Oacc=
-github.com/abulo/ratel/v3 v3.2.40/go.mod h1:CVVmz5tdOcasNl/Boec7qtYS7BVMIqcTOg4tcI+d3j8=
+github.com/abulo/ratel/v3 v3.3.4 h1:1sg+yNvvFmtJ4qrn3z11nUl3bxJqhezx4Zrr6GnWB0A=
+github.com/abulo/ratel/v3 v3.3.4/go.mod h1:NlMRC2A6mrxO5aP06zdwkJxKyp/MRE/NWwjeVmorgpk=
 github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
 github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751/go.mod h1:LOuyumcjzFXgccqObfd/Ljyb9UuFJ6TxHnclSeseNhc=
 github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf/go.mod h1:ybxpYRFXyAe+OPACYpWeL0wqObRcbAqCMya13uyzqw0=
@@ -179,9 +179,9 @@ github.com/googleapis/gax-go/v2 v2.0.4/go.mod h1:0Wqv26UfaUD9n4G6kQubkQ+KchISgw+
 github.com/googleapis/gax-go/v2 v2.0.5/go.mod h1:DWXyrwAJ9X0FpwwEdw+IPEYBICEFu5mhpdKc/us6bOk=
 github.com/gookit/color v1.5.2 h1:uLnfXcaFjlrDnQDT+NCBcfhrXqYTx/rcCa6xn01Y8yI=
 github.com/gookit/color v1.5.2/go.mod h1:w8h4bGiHeeBpvQVePTutdbERIUf3oJE5lZ8HM0UgXyg=
-github.com/gookit/goutil v0.6.2 h1:vOf6wc5nDGHElUlr0cYJNhxtCbNfq9Z0oSg4Ih2gDNI=
-github.com/gookit/goutil v0.6.2/go.mod h1:mdJ/GPQzbbKtNhwxOsXNBRAbF2+UE/HdRhELlG7btXU=
-github.com/gookit/ini/v2 v2.2.0 h1:C53IGiNgxJ4XsKPi1+jxUpjX9OHpd6byUltdLY7b1ss=
+github.com/gookit/goutil v0.6.4 h1:Yw99l83D26QYsIH08fLegrk1Eoq5d+gtpeK5tISpAU4=
+github.com/gookit/goutil v0.6.4/go.mod h1:90KOayLmcX12ZcbvQ6JakwJ7g4GbpzfjkOl7BHk6tAY=
+github.com/gookit/ini/v2 v2.2.1 h1:6fCrz8icnUHhYqGZwu7RtHLh+v+ErrgrAt9+aIcoJCc=
 github.com/hashicorp/golang-lru v0.5.0/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
 github.com/hashicorp/golang-lru v0.5.1/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
 github.com/henrylee2cn/ameda v1.4.8/go.mod h1:liZulR8DgHxdK+MEwvZIylGnmcjzQ6N6f2PlWe7nEO4=
@@ -199,8 +199,8 @@ github.com/inconshreveable/mousetrap v1.0.1/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLf
 github.com/issue9/assert/v3 v3.0.4 h1:WsYZQ6PQmM/pGFrbkn5GIXjWeVZHv+wcl2829UTX1Qc=
 github.com/issue9/errwrap v0.3.1 h1:8g4lYJaGnoiXyZ1oZyH/7zPDGgw5RNiE9Q6ri9kE6Z8=
 github.com/issue9/errwrap v0.3.1/go.mod h1:HLR0e5iimd2aJXM9YrThOsRj3/6lMtk77lVp7zyvJ4E=
-github.com/issue9/term/v3 v3.1.0 h1:u3gqz+LQ3eZbeB02NcHMxUioldbHdNXCPR3VypVVclU=
-github.com/issue9/term/v3 v3.1.0/go.mod h1:LN5FvlciiyoWopAH9b2+nK1fOnt2Ay3vmDawCGjc7Tw=
+github.com/issue9/term/v3 v3.1.1 h1:JnIDvpf1An4wyOIBv3VfhJbkyULwnOVX45nIgcEpQCs=
+github.com/issue9/term/v3 v3.1.1/go.mod h1:5DP/nOHnaAKDi8qPFbnNdxegCjXz7qOvspYnxFMJfSU=
 github.com/jpillora/backoff v1.0.0/go.mod h1:J/6gKK9jxlEcS3zixgDgUAsiuZ7yrSoa/FX5e0EB2j4=
 github.com/json-iterator/go v1.1.6/go.mod h1:+SdeFBvtyEkXs7REEP0seUULqWtbJapLOCVDaaPEHmU=
 github.com/json-iterator/go v1.1.10/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
