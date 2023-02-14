@@ -4,12 +4,12 @@ import (
 	"log"
 
 	"github.com/abulo/ratel/v3/core/env"
-	"github.com/abulo/ratel/v3/toolkit/api"
-	"github.com/abulo/ratel/v3/toolkit/build"
-	"github.com/abulo/ratel/v3/toolkit/dao"
-	"github.com/abulo/ratel/v3/toolkit/module"
-	"github.com/abulo/ratel/v3/toolkit/project"
-	"github.com/abulo/ratel/v3/toolkit/upgrade"
+	"github.com/abulo/toolkit/api"
+	"github.com/abulo/toolkit/build"
+	"github.com/abulo/toolkit/dao"
+	"github.com/abulo/toolkit/module"
+	"github.com/abulo/toolkit/project"
+	"github.com/abulo/toolkit/upgrade"
 	"github.com/spf13/cobra"
 )
 
